@@ -1,0 +1,1616 @@
+{
+    "project_name": "02_Invective_Amp",
+    "project_root": "/Users/ashton/Desktop/UNIT1 - INVEC - HORZN",
+    "type": "AMP",
+    "knobs": [
+        {
+            "id": "Pre_Gain",
+            "name": "Pre_Gain",
+            "min": 0.0,
+            "max": 1.0,
+            "type": "Linear"
+        },
+        {
+            "id": "Bass",
+            "name": "Bass",
+            "min": 0.0,
+            "max": 1.0,
+            "type": "Linear"
+        },
+        {
+            "id": "Mid",
+            "name": "Mid",
+            "min": 0.0,
+            "max": 1.0,
+            "type": "Linear"
+        },
+        {
+            "id": "Treble",
+            "name": "Treble",
+            "min": 0.0,
+            "max": 1.0,
+            "type": "Linear"
+        },
+        {
+            "id": "Post_Gain",
+            "name": "Post_Gain",
+            "min": 0.0,
+            "max": 1.0,
+            "type": "Linear"
+        },
+        {
+            "id": "Master",
+            "name": "Master",
+            "min": 0.0,
+            "max": 1.0,
+            "type": "Linear"
+        },
+        {
+            "id": "Presence",
+            "name": "Presence",
+            "min": 0.0,
+            "max": 1.0,
+            "type": "Linear"
+        },
+        {
+            "id": "Depth",
+            "name": "Depth",
+            "min": 0.0,
+            "max": 1.0,
+            "type": "Linear"
+        },
+        {
+            "id": "Sag",
+            "name": "Sag",
+            "min": 0.0,
+            "max": 1.0,
+            "type": "Linear"
+        },
+        {
+            "id": "Bias",
+            "name": "Bias",
+            "min": 0.0,
+            "max": 1.0,
+            "type": "Linear"
+        },
+        {
+            "id": "Bias_X",
+            "name": "Bias_X",
+            "min": 0.0,
+            "max": 1.0,
+            "type": "Linear"
+        }
+    ],
+    "passes": [
+        {
+            "filename": "02_Invective_Amp_Pre_Gain_0p0.wav",
+            "target_dir": "02_Invective_Amp/01_Single_Sweeps",
+            "settings": {
+                "Pre_Gain": 0.0,
+                "Bass": 0.5,
+                "Mid": 0.5,
+                "Treble": 0.5,
+                "Post_Gain": 0.5,
+                "Master": 0.5,
+                "Presence": 0.5,
+                "Depth": 0.5,
+                "Sag": 0.5,
+                "Bias": 0.5,
+                "Bias_X": 0.5
+            }
+        },
+        {
+            "filename": "02_Invective_Amp_Pre_Gain_2p5.wav",
+            "target_dir": "02_Invective_Amp/01_Single_Sweeps",
+            "settings": {
+                "Pre_Gain": 0.25,
+                "Bass": 0.5,
+                "Mid": 0.5,
+                "Treble": 0.5,
+                "Post_Gain": 0.5,
+                "Master": 0.5,
+                "Presence": 0.5,
+                "Depth": 0.5,
+                "Sag": 0.5,
+                "Bias": 0.5,
+                "Bias_X": 0.5
+            }
+        },
+        {
+            "filename": "02_Invective_Amp_Pre_Gain_5p0.wav",
+            "target_dir": "02_Invective_Amp/01_Single_Sweeps",
+            "settings": {
+                "Pre_Gain": 0.5,
+                "Bass": 0.5,
+                "Mid": 0.5,
+                "Treble": 0.5,
+                "Post_Gain": 0.5,
+                "Master": 0.5,
+                "Presence": 0.5,
+                "Depth": 0.5,
+                "Sag": 0.5,
+                "Bias": 0.5,
+                "Bias_X": 0.5
+            }
+        },
+        {
+            "filename": "02_Invective_Amp_Pre_Gain_7p5.wav",
+            "target_dir": "02_Invective_Amp/01_Single_Sweeps",
+            "settings": {
+                "Pre_Gain": 0.75,
+                "Bass": 0.5,
+                "Mid": 0.5,
+                "Treble": 0.5,
+                "Post_Gain": 0.5,
+                "Master": 0.5,
+                "Presence": 0.5,
+                "Depth": 0.5,
+                "Sag": 0.5,
+                "Bias": 0.5,
+                "Bias_X": 0.5
+            }
+        },
+        {
+            "filename": "02_Invective_Amp_Pre_Gain_10p0.wav",
+            "target_dir": "02_Invective_Amp/01_Single_Sweeps",
+            "settings": {
+                "Pre_Gain": 1.0,
+                "Bass": 0.5,
+                "Mid": 0.5,
+                "Treble": 0.5,
+                "Post_Gain": 0.5,
+                "Master": 0.5,
+                "Presence": 0.5,
+                "Depth": 0.5,
+                "Sag": 0.5,
+                "Bias": 0.5,
+                "Bias_X": 0.5
+            }
+        },
+        {
+            "filename": "02_Invective_Amp_Bass_0p0.wav",
+            "target_dir": "02_Invective_Amp/01_Single_Sweeps",
+            "settings": {
+                "Pre_Gain": 0.5,
+                "Bass": 0.0,
+                "Mid": 0.5,
+                "Treble": 0.5,
+                "Post_Gain": 0.5,
+                "Master": 0.5,
+                "Presence": 0.5,
+                "Depth": 0.5,
+                "Sag": 0.5,
+                "Bias": 0.5,
+                "Bias_X": 0.5
+            }
+        },
+        {
+            "filename": "02_Invective_Amp_Bass_2p5.wav",
+            "target_dir": "02_Invective_Amp/01_Single_Sweeps",
+            "settings": {
+                "Pre_Gain": 0.5,
+                "Bass": 0.25,
+                "Mid": 0.5,
+                "Treble": 0.5,
+                "Post_Gain": 0.5,
+                "Master": 0.5,
+                "Presence": 0.5,
+                "Depth": 0.5,
+                "Sag": 0.5,
+                "Bias": 0.5,
+                "Bias_X": 0.5
+            }
+        },
+        {
+            "filename": "02_Invective_Amp_Bass_5p0.wav",
+            "target_dir": "02_Invective_Amp/01_Single_Sweeps",
+            "settings": {
+                "Pre_Gain": 0.5,
+                "Bass": 0.5,
+                "Mid": 0.5,
+                "Treble": 0.5,
+                "Post_Gain": 0.5,
+                "Master": 0.5,
+                "Presence": 0.5,
+                "Depth": 0.5,
+                "Sag": 0.5,
+                "Bias": 0.5,
+                "Bias_X": 0.5
+            }
+        },
+        {
+            "filename": "02_Invective_Amp_Bass_7p5.wav",
+            "target_dir": "02_Invective_Amp/01_Single_Sweeps",
+            "settings": {
+                "Pre_Gain": 0.5,
+                "Bass": 0.75,
+                "Mid": 0.5,
+                "Treble": 0.5,
+                "Post_Gain": 0.5,
+                "Master": 0.5,
+                "Presence": 0.5,
+                "Depth": 0.5,
+                "Sag": 0.5,
+                "Bias": 0.5,
+                "Bias_X": 0.5
+            }
+        },
+        {
+            "filename": "02_Invective_Amp_Bass_10p0.wav",
+            "target_dir": "02_Invective_Amp/01_Single_Sweeps",
+            "settings": {
+                "Pre_Gain": 0.5,
+                "Bass": 1.0,
+                "Mid": 0.5,
+                "Treble": 0.5,
+                "Post_Gain": 0.5,
+                "Master": 0.5,
+                "Presence": 0.5,
+                "Depth": 0.5,
+                "Sag": 0.5,
+                "Bias": 0.5,
+                "Bias_X": 0.5
+            }
+        },
+        {
+            "filename": "02_Invective_Amp_Mid_0p0.wav",
+            "target_dir": "02_Invective_Amp/01_Single_Sweeps",
+            "settings": {
+                "Pre_Gain": 0.5,
+                "Bass": 0.5,
+                "Mid": 0.0,
+                "Treble": 0.5,
+                "Post_Gain": 0.5,
+                "Master": 0.5,
+                "Presence": 0.5,
+                "Depth": 0.5,
+                "Sag": 0.5,
+                "Bias": 0.5,
+                "Bias_X": 0.5
+            }
+        },
+        {
+            "filename": "02_Invective_Amp_Mid_2p5.wav",
+            "target_dir": "02_Invective_Amp/01_Single_Sweeps",
+            "settings": {
+                "Pre_Gain": 0.5,
+                "Bass": 0.5,
+                "Mid": 0.25,
+                "Treble": 0.5,
+                "Post_Gain": 0.5,
+                "Master": 0.5,
+                "Presence": 0.5,
+                "Depth": 0.5,
+                "Sag": 0.5,
+                "Bias": 0.5,
+                "Bias_X": 0.5
+            }
+        },
+        {
+            "filename": "02_Invective_Amp_Mid_5p0.wav",
+            "target_dir": "02_Invective_Amp/01_Single_Sweeps",
+            "settings": {
+                "Pre_Gain": 0.5,
+                "Bass": 0.5,
+                "Mid": 0.5,
+                "Treble": 0.5,
+                "Post_Gain": 0.5,
+                "Master": 0.5,
+                "Presence": 0.5,
+                "Depth": 0.5,
+                "Sag": 0.5,
+                "Bias": 0.5,
+                "Bias_X": 0.5
+            }
+        },
+        {
+            "filename": "02_Invective_Amp_Mid_7p5.wav",
+            "target_dir": "02_Invective_Amp/01_Single_Sweeps",
+            "settings": {
+                "Pre_Gain": 0.5,
+                "Bass": 0.5,
+                "Mid": 0.75,
+                "Treble": 0.5,
+                "Post_Gain": 0.5,
+                "Master": 0.5,
+                "Presence": 0.5,
+                "Depth": 0.5,
+                "Sag": 0.5,
+                "Bias": 0.5,
+                "Bias_X": 0.5
+            }
+        },
+        {
+            "filename": "02_Invective_Amp_Mid_10p0.wav",
+            "target_dir": "02_Invective_Amp/01_Single_Sweeps",
+            "settings": {
+                "Pre_Gain": 0.5,
+                "Bass": 0.5,
+                "Mid": 1.0,
+                "Treble": 0.5,
+                "Post_Gain": 0.5,
+                "Master": 0.5,
+                "Presence": 0.5,
+                "Depth": 0.5,
+                "Sag": 0.5,
+                "Bias": 0.5,
+                "Bias_X": 0.5
+            }
+        },
+        {
+            "filename": "02_Invective_Amp_Treble_0p0.wav",
+            "target_dir": "02_Invective_Amp/01_Single_Sweeps",
+            "settings": {
+                "Pre_Gain": 0.5,
+                "Bass": 0.5,
+                "Mid": 0.5,
+                "Treble": 0.0,
+                "Post_Gain": 0.5,
+                "Master": 0.5,
+                "Presence": 0.5,
+                "Depth": 0.5,
+                "Sag": 0.5,
+                "Bias": 0.5,
+                "Bias_X": 0.5
+            }
+        },
+        {
+            "filename": "02_Invective_Amp_Treble_2p5.wav",
+            "target_dir": "02_Invective_Amp/01_Single_Sweeps",
+            "settings": {
+                "Pre_Gain": 0.5,
+                "Bass": 0.5,
+                "Mid": 0.5,
+                "Treble": 0.25,
+                "Post_Gain": 0.5,
+                "Master": 0.5,
+                "Presence": 0.5,
+                "Depth": 0.5,
+                "Sag": 0.5,
+                "Bias": 0.5,
+                "Bias_X": 0.5
+            }
+        },
+        {
+            "filename": "02_Invective_Amp_Treble_5p0.wav",
+            "target_dir": "02_Invective_Amp/01_Single_Sweeps",
+            "settings": {
+                "Pre_Gain": 0.5,
+                "Bass": 0.5,
+                "Mid": 0.5,
+                "Treble": 0.5,
+                "Post_Gain": 0.5,
+                "Master": 0.5,
+                "Presence": 0.5,
+                "Depth": 0.5,
+                "Sag": 0.5,
+                "Bias": 0.5,
+                "Bias_X": 0.5
+            }
+        },
+        {
+            "filename": "02_Invective_Amp_Treble_7p5.wav",
+            "target_dir": "02_Invective_Amp/01_Single_Sweeps",
+            "settings": {
+                "Pre_Gain": 0.5,
+                "Bass": 0.5,
+                "Mid": 0.5,
+                "Treble": 0.75,
+                "Post_Gain": 0.5,
+                "Master": 0.5,
+                "Presence": 0.5,
+                "Depth": 0.5,
+                "Sag": 0.5,
+                "Bias": 0.5,
+                "Bias_X": 0.5
+            }
+        },
+        {
+            "filename": "02_Invective_Amp_Treble_10p0.wav",
+            "target_dir": "02_Invective_Amp/01_Single_Sweeps",
+            "settings": {
+                "Pre_Gain": 0.5,
+                "Bass": 0.5,
+                "Mid": 0.5,
+                "Treble": 1.0,
+                "Post_Gain": 0.5,
+                "Master": 0.5,
+                "Presence": 0.5,
+                "Depth": 0.5,
+                "Sag": 0.5,
+                "Bias": 0.5,
+                "Bias_X": 0.5
+            }
+        },
+        {
+            "filename": "02_Invective_Amp_Post_Gain_0p0.wav",
+            "target_dir": "02_Invective_Amp/01_Single_Sweeps",
+            "settings": {
+                "Pre_Gain": 0.5,
+                "Bass": 0.5,
+                "Mid": 0.5,
+                "Treble": 0.5,
+                "Post_Gain": 0.0,
+                "Master": 0.5,
+                "Presence": 0.5,
+                "Depth": 0.5,
+                "Sag": 0.5,
+                "Bias": 0.5,
+                "Bias_X": 0.5
+            }
+        },
+        {
+            "filename": "02_Invective_Amp_Post_Gain_2p5.wav",
+            "target_dir": "02_Invective_Amp/01_Single_Sweeps",
+            "settings": {
+                "Pre_Gain": 0.5,
+                "Bass": 0.5,
+                "Mid": 0.5,
+                "Treble": 0.5,
+                "Post_Gain": 0.25,
+                "Master": 0.5,
+                "Presence": 0.5,
+                "Depth": 0.5,
+                "Sag": 0.5,
+                "Bias": 0.5,
+                "Bias_X": 0.5
+            }
+        },
+        {
+            "filename": "02_Invective_Amp_Post_Gain_5p0.wav",
+            "target_dir": "02_Invective_Amp/01_Single_Sweeps",
+            "settings": {
+                "Pre_Gain": 0.5,
+                "Bass": 0.5,
+                "Mid": 0.5,
+                "Treble": 0.5,
+                "Post_Gain": 0.5,
+                "Master": 0.5,
+                "Presence": 0.5,
+                "Depth": 0.5,
+                "Sag": 0.5,
+                "Bias": 0.5,
+                "Bias_X": 0.5
+            }
+        },
+        {
+            "filename": "02_Invective_Amp_Post_Gain_7p5.wav",
+            "target_dir": "02_Invective_Amp/01_Single_Sweeps",
+            "settings": {
+                "Pre_Gain": 0.5,
+                "Bass": 0.5,
+                "Mid": 0.5,
+                "Treble": 0.5,
+                "Post_Gain": 0.75,
+                "Master": 0.5,
+                "Presence": 0.5,
+                "Depth": 0.5,
+                "Sag": 0.5,
+                "Bias": 0.5,
+                "Bias_X": 0.5
+            }
+        },
+        {
+            "filename": "02_Invective_Amp_Post_Gain_10p0.wav",
+            "target_dir": "02_Invective_Amp/01_Single_Sweeps",
+            "settings": {
+                "Pre_Gain": 0.5,
+                "Bass": 0.5,
+                "Mid": 0.5,
+                "Treble": 0.5,
+                "Post_Gain": 1.0,
+                "Master": 0.5,
+                "Presence": 0.5,
+                "Depth": 0.5,
+                "Sag": 0.5,
+                "Bias": 0.5,
+                "Bias_X": 0.5
+            }
+        },
+        {
+            "filename": "02_Invective_Amp_Master_0p0.wav",
+            "target_dir": "02_Invective_Amp/01_Single_Sweeps",
+            "settings": {
+                "Pre_Gain": 0.5,
+                "Bass": 0.5,
+                "Mid": 0.5,
+                "Treble": 0.5,
+                "Post_Gain": 0.5,
+                "Master": 0.0,
+                "Presence": 0.5,
+                "Depth": 0.5,
+                "Sag": 0.5,
+                "Bias": 0.5,
+                "Bias_X": 0.5
+            }
+        },
+        {
+            "filename": "02_Invective_Amp_Master_2p5.wav",
+            "target_dir": "02_Invective_Amp/01_Single_Sweeps",
+            "settings": {
+                "Pre_Gain": 0.5,
+                "Bass": 0.5,
+                "Mid": 0.5,
+                "Treble": 0.5,
+                "Post_Gain": 0.5,
+                "Master": 0.25,
+                "Presence": 0.5,
+                "Depth": 0.5,
+                "Sag": 0.5,
+                "Bias": 0.5,
+                "Bias_X": 0.5
+            }
+        },
+        {
+            "filename": "02_Invective_Amp_Master_5p0.wav",
+            "target_dir": "02_Invective_Amp/01_Single_Sweeps",
+            "settings": {
+                "Pre_Gain": 0.5,
+                "Bass": 0.5,
+                "Mid": 0.5,
+                "Treble": 0.5,
+                "Post_Gain": 0.5,
+                "Master": 0.5,
+                "Presence": 0.5,
+                "Depth": 0.5,
+                "Sag": 0.5,
+                "Bias": 0.5,
+                "Bias_X": 0.5
+            }
+        },
+        {
+            "filename": "02_Invective_Amp_Master_7p5.wav",
+            "target_dir": "02_Invective_Amp/01_Single_Sweeps",
+            "settings": {
+                "Pre_Gain": 0.5,
+                "Bass": 0.5,
+                "Mid": 0.5,
+                "Treble": 0.5,
+                "Post_Gain": 0.5,
+                "Master": 0.75,
+                "Presence": 0.5,
+                "Depth": 0.5,
+                "Sag": 0.5,
+                "Bias": 0.5,
+                "Bias_X": 0.5
+            }
+        },
+        {
+            "filename": "02_Invective_Amp_Master_10p0.wav",
+            "target_dir": "02_Invective_Amp/01_Single_Sweeps",
+            "settings": {
+                "Pre_Gain": 0.5,
+                "Bass": 0.5,
+                "Mid": 0.5,
+                "Treble": 0.5,
+                "Post_Gain": 0.5,
+                "Master": 1.0,
+                "Presence": 0.5,
+                "Depth": 0.5,
+                "Sag": 0.5,
+                "Bias": 0.5,
+                "Bias_X": 0.5
+            }
+        },
+        {
+            "filename": "02_Invective_Amp_Presence_0p0.wav",
+            "target_dir": "02_Invective_Amp/01_Single_Sweeps",
+            "settings": {
+                "Pre_Gain": 0.5,
+                "Bass": 0.5,
+                "Mid": 0.5,
+                "Treble": 0.5,
+                "Post_Gain": 0.5,
+                "Master": 0.5,
+                "Presence": 0.0,
+                "Depth": 0.5,
+                "Sag": 0.5,
+                "Bias": 0.5,
+                "Bias_X": 0.5
+            }
+        },
+        {
+            "filename": "02_Invective_Amp_Presence_2p5.wav",
+            "target_dir": "02_Invective_Amp/01_Single_Sweeps",
+            "settings": {
+                "Pre_Gain": 0.5,
+                "Bass": 0.5,
+                "Mid": 0.5,
+                "Treble": 0.5,
+                "Post_Gain": 0.5,
+                "Master": 0.5,
+                "Presence": 0.25,
+                "Depth": 0.5,
+                "Sag": 0.5,
+                "Bias": 0.5,
+                "Bias_X": 0.5
+            }
+        },
+        {
+            "filename": "02_Invective_Amp_Presence_5p0.wav",
+            "target_dir": "02_Invective_Amp/01_Single_Sweeps",
+            "settings": {
+                "Pre_Gain": 0.5,
+                "Bass": 0.5,
+                "Mid": 0.5,
+                "Treble": 0.5,
+                "Post_Gain": 0.5,
+                "Master": 0.5,
+                "Presence": 0.5,
+                "Depth": 0.5,
+                "Sag": 0.5,
+                "Bias": 0.5,
+                "Bias_X": 0.5
+            }
+        },
+        {
+            "filename": "02_Invective_Amp_Presence_7p5.wav",
+            "target_dir": "02_Invective_Amp/01_Single_Sweeps",
+            "settings": {
+                "Pre_Gain": 0.5,
+                "Bass": 0.5,
+                "Mid": 0.5,
+                "Treble": 0.5,
+                "Post_Gain": 0.5,
+                "Master": 0.5,
+                "Presence": 0.75,
+                "Depth": 0.5,
+                "Sag": 0.5,
+                "Bias": 0.5,
+                "Bias_X": 0.5
+            }
+        },
+        {
+            "filename": "02_Invective_Amp_Presence_10p0.wav",
+            "target_dir": "02_Invective_Amp/01_Single_Sweeps",
+            "settings": {
+                "Pre_Gain": 0.5,
+                "Bass": 0.5,
+                "Mid": 0.5,
+                "Treble": 0.5,
+                "Post_Gain": 0.5,
+                "Master": 0.5,
+                "Presence": 1.0,
+                "Depth": 0.5,
+                "Sag": 0.5,
+                "Bias": 0.5,
+                "Bias_X": 0.5
+            }
+        },
+        {
+            "filename": "02_Invective_Amp_Depth_0p0.wav",
+            "target_dir": "02_Invective_Amp/01_Single_Sweeps",
+            "settings": {
+                "Pre_Gain": 0.5,
+                "Bass": 0.5,
+                "Mid": 0.5,
+                "Treble": 0.5,
+                "Post_Gain": 0.5,
+                "Master": 0.5,
+                "Presence": 0.5,
+                "Depth": 0.0,
+                "Sag": 0.5,
+                "Bias": 0.5,
+                "Bias_X": 0.5
+            }
+        },
+        {
+            "filename": "02_Invective_Amp_Depth_2p5.wav",
+            "target_dir": "02_Invective_Amp/01_Single_Sweeps",
+            "settings": {
+                "Pre_Gain": 0.5,
+                "Bass": 0.5,
+                "Mid": 0.5,
+                "Treble": 0.5,
+                "Post_Gain": 0.5,
+                "Master": 0.5,
+                "Presence": 0.5,
+                "Depth": 0.25,
+                "Sag": 0.5,
+                "Bias": 0.5,
+                "Bias_X": 0.5
+            }
+        },
+        {
+            "filename": "02_Invective_Amp_Depth_5p0.wav",
+            "target_dir": "02_Invective_Amp/01_Single_Sweeps",
+            "settings": {
+                "Pre_Gain": 0.5,
+                "Bass": 0.5,
+                "Mid": 0.5,
+                "Treble": 0.5,
+                "Post_Gain": 0.5,
+                "Master": 0.5,
+                "Presence": 0.5,
+                "Depth": 0.5,
+                "Sag": 0.5,
+                "Bias": 0.5,
+                "Bias_X": 0.5
+            }
+        },
+        {
+            "filename": "02_Invective_Amp_Depth_7p5.wav",
+            "target_dir": "02_Invective_Amp/01_Single_Sweeps",
+            "settings": {
+                "Pre_Gain": 0.5,
+                "Bass": 0.5,
+                "Mid": 0.5,
+                "Treble": 0.5,
+                "Post_Gain": 0.5,
+                "Master": 0.5,
+                "Presence": 0.5,
+                "Depth": 0.75,
+                "Sag": 0.5,
+                "Bias": 0.5,
+                "Bias_X": 0.5
+            }
+        },
+        {
+            "filename": "02_Invective_Amp_Depth_10p0.wav",
+            "target_dir": "02_Invective_Amp/01_Single_Sweeps",
+            "settings": {
+                "Pre_Gain": 0.5,
+                "Bass": 0.5,
+                "Mid": 0.5,
+                "Treble": 0.5,
+                "Post_Gain": 0.5,
+                "Master": 0.5,
+                "Presence": 0.5,
+                "Depth": 1.0,
+                "Sag": 0.5,
+                "Bias": 0.5,
+                "Bias_X": 0.5
+            }
+        },
+        {
+            "filename": "Chaos_Full_01.wav",
+            "target_dir": "02_Invective_Amp/02_Chaos_Mode",
+            "settings": {
+                "Pre_Gain": 0.99,
+                "Bass": 0.13,
+                "Mid": 0.16,
+                "Treble": 0.82,
+                "Post_Gain": 0.48,
+                "Master": 0.97,
+                "Presence": 0.67,
+                "Depth": 0.44000000000000006,
+                "Sag": 0.67,
+                "Bias": 0.44000000000000006,
+                "Bias_X": 0.06
+            }
+        },
+        {
+            "filename": "Chaos_Full_02.wav",
+            "target_dir": "02_Invective_Amp/02_Chaos_Mode",
+            "settings": {
+                "Pre_Gain": 0.19,
+                "Bass": 0.61,
+                "Mid": 0.41,
+                "Treble": 0.2,
+                "Post_Gain": 0.02,
+                "Master": 0.5900000000000001,
+                "Presence": 0.86,
+                "Depth": 0.21000000000000002,
+                "Sag": 0.43,
+                "Bias": 0.11000000000000001,
+                "Bias_X": 0.41
+            }
+        },
+        {
+            "filename": "Chaos_Full_03.wav",
+            "target_dir": "02_Invective_Amp/02_Chaos_Mode",
+            "settings": {
+                "Pre_Gain": 0.08,
+                "Bass": 0.65,
+                "Mid": 0.6599999999999999,
+                "Treble": 0.25,
+                "Post_Gain": 0.02,
+                "Master": 0.8800000000000001,
+                "Presence": 0.8800000000000001,
+                "Depth": 0.8,
+                "Sag": 0.72,
+                "Bias": 0.32,
+                "Bias_X": 0.45
+            }
+        },
+        {
+            "filename": "Chaos_Full_04.wav",
+            "target_dir": "02_Invective_Amp/02_Chaos_Mode",
+            "settings": {
+                "Pre_Gain": 0.16,
+                "Bass": 0.99,
+                "Mid": 0.06999999999999999,
+                "Treble": 0.61,
+                "Post_Gain": 0.8300000000000001,
+                "Master": 0.5900000000000001,
+                "Presence": 0.1,
+                "Depth": 0.75,
+                "Sag": 0.7,
+                "Bias": 0.75,
+                "Bias_X": 0.0
+            }
+        },
+        {
+            "filename": "Chaos_Full_05.wav",
+            "target_dir": "02_Invective_Amp/02_Chaos_Mode",
+            "settings": {
+                "Pre_Gain": 0.64,
+                "Bass": 0.03,
+                "Mid": 0.06,
+                "Treble": 0.93,
+                "Post_Gain": 0.09,
+                "Master": 0.44000000000000006,
+                "Presence": 0.32999999999999996,
+                "Depth": 0.5599999999999999,
+                "Sag": 0.5599999999999999,
+                "Bias": 0.6799999999999999,
+                "Bias_X": 0.74
+            }
+        },
+        {
+            "filename": "Chaos_Full_06.wav",
+            "target_dir": "02_Invective_Amp/02_Chaos_Mode",
+            "settings": {
+                "Pre_Gain": 0.48,
+                "Bass": 0.9400000000000001,
+                "Mid": 0.04,
+                "Treble": 0.8,
+                "Post_Gain": 0.5599999999999999,
+                "Master": 0.5599999999999999,
+                "Presence": 0.15,
+                "Depth": 0.11000000000000001,
+                "Sag": 0.51,
+                "Bias": 0.02,
+                "Bias_X": 0.27999999999999997
+            }
+        },
+        {
+            "filename": "Chaos_Full_07.wav",
+            "target_dir": "02_Invective_Amp/02_Chaos_Mode",
+            "settings": {
+                "Pre_Gain": 0.8699999999999999,
+                "Bass": 0.3,
+                "Mid": 0.74,
+                "Treble": 0.37,
+                "Post_Gain": 0.35,
+                "Master": 0.8699999999999999,
+                "Presence": 0.79,
+                "Depth": 0.79,
+                "Sag": 0.8400000000000001,
+                "Bias": 0.22000000000000003,
+                "Bias_X": 0.85
+            }
+        },
+        {
+            "filename": "Chaos_Full_08.wav",
+            "target_dir": "02_Invective_Amp/02_Chaos_Mode",
+            "settings": {
+                "Pre_Gain": 0.05,
+                "Bass": 0.62,
+                "Mid": 0.16,
+                "Treble": 0.7,
+                "Post_Gain": 0.61,
+                "Master": 0.93,
+                "Presence": 0.5599999999999999,
+                "Depth": 0.9099999999999999,
+                "Sag": 0.42000000000000004,
+                "Bias": 0.26,
+                "Bias_X": 0.24
+            }
+        },
+        {
+            "filename": "Chaos_Full_09.wav",
+            "target_dir": "02_Invective_Amp/02_Chaos_Mode",
+            "settings": {
+                "Pre_Gain": 0.5700000000000001,
+                "Bass": 0.27,
+                "Mid": 0.13,
+                "Treble": 0.41,
+                "Post_Gain": 0.97,
+                "Master": 0.54,
+                "Presence": 0.08,
+                "Depth": 0.27999999999999997,
+                "Sag": 0.24,
+                "Bias": 0.25,
+                "Bias_X": 0.27
+            }
+        },
+        {
+            "filename": "Chaos_Full_10.wav",
+            "target_dir": "02_Invective_Amp/02_Chaos_Mode",
+            "settings": {
+                "Pre_Gain": 0.95,
+                "Bass": 0.1,
+                "Mid": 0.99,
+                "Treble": 0.33999999999999997,
+                "Post_Gain": 0.06,
+                "Master": 0.64,
+                "Presence": 0.6599999999999999,
+                "Depth": 0.5900000000000001,
+                "Sag": 0.37,
+                "Bias": 0.06999999999999999,
+                "Bias_X": 0.12
+            }
+        },
+        {
+            "filename": "Chaos_Full_11.wav",
+            "target_dir": "02_Invective_Amp/02_Chaos_Mode",
+            "settings": {
+                "Pre_Gain": 0.76,
+                "Bass": 0.24,
+                "Mid": 0.27999999999999997,
+                "Treble": 0.16,
+                "Post_Gain": 0.15,
+                "Master": 0.7,
+                "Presence": 0.36,
+                "Depth": 0.9400000000000001,
+                "Sag": 0.36,
+                "Bias": 0.61,
+                "Bias_X": 0.7
+            }
+        },
+        {
+            "filename": "Chaos_Full_12.wav",
+            "target_dir": "02_Invective_Amp/02_Chaos_Mode",
+            "settings": {
+                "Pre_Gain": 0.3,
+                "Bass": 0.13,
+                "Mid": 0.24,
+                "Treble": 0.52,
+                "Post_Gain": 0.54,
+                "Master": 0.18,
+                "Presence": 0.08,
+                "Depth": 0.36,
+                "Sag": 0.67,
+                "Bias": 0.32,
+                "Bias_X": 0.49000000000000005
+            }
+        },
+        {
+            "filename": "Chaos_Full_13.wav",
+            "target_dir": "02_Invective_Amp/02_Chaos_Mode",
+            "settings": {
+                "Pre_Gain": 0.75,
+                "Bass": 0.89,
+                "Mid": 0.5,
+                "Treble": 0.44000000000000006,
+                "Post_Gain": 0.9400000000000001,
+                "Master": 0.43,
+                "Presence": 0.43,
+                "Depth": 0.6799999999999999,
+                "Sag": 0.9800000000000001,
+                "Bias": 0.08,
+                "Bias_X": 0.9800000000000001
+            }
+        },
+        {
+            "filename": "Chaos_Full_14.wav",
+            "target_dir": "02_Invective_Amp/02_Chaos_Mode",
+            "settings": {
+                "Pre_Gain": 0.77,
+                "Bass": 0.74,
+                "Mid": 0.27,
+                "Treble": 0.51,
+                "Post_Gain": 0.32,
+                "Master": 0.9099999999999999,
+                "Presence": 0.9099999999999999,
+                "Depth": 0.21000000000000002,
+                "Sag": 0.8800000000000001,
+                "Bias": 0.8400000000000001,
+                "Bias_X": 0.97
+            }
+        },
+        {
+            "filename": "Chaos_Full_15.wav",
+            "target_dir": "02_Invective_Amp/02_Chaos_Mode",
+            "settings": {
+                "Pre_Gain": 0.25,
+                "Bass": 0.6599999999999999,
+                "Mid": 0.08,
+                "Treble": 0.22000000000000003,
+                "Post_Gain": 0.79,
+                "Master": 0.9400000000000001,
+                "Presence": 0.7,
+                "Depth": 0.8099999999999999,
+                "Sag": 0.8800000000000001,
+                "Bias": 0.97,
+                "Bias_X": 0.38
+            }
+        },
+        {
+            "filename": "Chaos_Full_16.wav",
+            "target_dir": "02_Invective_Amp/02_Chaos_Mode",
+            "settings": {
+                "Pre_Gain": 0.33999999999999997,
+                "Bass": 0.71,
+                "Mid": 0.16999999999999998,
+                "Treble": 0.54,
+                "Post_Gain": 0.85,
+                "Master": 0.32999999999999996,
+                "Presence": 0.21000000000000002,
+                "Depth": 0.45999999999999996,
+                "Sag": 0.6599999999999999,
+                "Bias": 0.9400000000000001,
+                "Bias_X": 0.73
+            }
+        },
+        {
+            "filename": "Chaos_Full_17.wav",
+            "target_dir": "02_Invective_Amp/02_Chaos_Mode",
+            "settings": {
+                "Pre_Gain": 0.18,
+                "Bass": 0.9400000000000001,
+                "Mid": 0.47000000000000003,
+                "Treble": 0.29,
+                "Post_Gain": 0.67,
+                "Master": 0.82,
+                "Presence": 0.21000000000000002,
+                "Depth": 0.6,
+                "Sag": 0.65,
+                "Bias": 0.97,
+                "Bias_X": 0.45
+            }
+        },
+        {
+            "filename": "Chaos_Full_18.wav",
+            "target_dir": "02_Invective_Amp/02_Chaos_Mode",
+            "settings": {
+                "Pre_Gain": 0.55,
+                "Bass": 0.24,
+                "Mid": 0.8800000000000001,
+                "Treble": 0.9199999999999999,
+                "Post_Gain": 0.45,
+                "Master": 0.16999999999999998,
+                "Presence": 0.21000000000000002,
+                "Depth": 0.85,
+                "Sag": 0.03,
+                "Bias": 0.27999999999999997,
+                "Bias_X": 0.39
+            }
+        },
+        {
+            "filename": "Chaos_Full_19.wav",
+            "target_dir": "02_Invective_Amp/02_Chaos_Mode",
+            "settings": {
+                "Pre_Gain": 0.9199999999999999,
+                "Bass": 0.06999999999999999,
+                "Mid": 0.32,
+                "Treble": 1.0,
+                "Post_Gain": 0.31,
+                "Master": 0.8699999999999999,
+                "Presence": 0.54,
+                "Depth": 0.3,
+                "Sag": 0.6599999999999999,
+                "Bias": 0.25,
+                "Bias_X": 0.33999999999999997
+            }
+        },
+        {
+            "filename": "Chaos_Full_20.wav",
+            "target_dir": "02_Invective_Amp/02_Chaos_Mode",
+            "settings": {
+                "Pre_Gain": 0.13,
+                "Bass": 0.9,
+                "Mid": 0.11000000000000001,
+                "Treble": 0.16,
+                "Post_Gain": 0.04,
+                "Master": 0.04,
+                "Presence": 0.74,
+                "Depth": 0.35,
+                "Sag": 0.27,
+                "Bias": 0.32999999999999996,
+                "Bias_X": 0.12
+            }
+        },
+        {
+            "filename": "Chaos_Full_21.wav",
+            "target_dir": "02_Invective_Amp/02_Chaos_Mode",
+            "settings": {
+                "Pre_Gain": 0.7,
+                "Bass": 0.6599999999999999,
+                "Mid": 0.75,
+                "Treble": 0.54,
+                "Post_Gain": 0.12,
+                "Master": 0.78,
+                "Presence": 0.32,
+                "Depth": 0.74,
+                "Sag": 0.29,
+                "Bias": 0.49000000000000005,
+                "Bias_X": 0.42000000000000004
+            }
+        },
+        {
+            "filename": "Chaos_Full_22.wav",
+            "target_dir": "02_Invective_Amp/02_Chaos_Mode",
+            "settings": {
+                "Pre_Gain": 0.15,
+                "Bass": 0.6799999999999999,
+                "Mid": 0.37,
+                "Treble": 0.8,
+                "Post_Gain": 0.43,
+                "Master": 0.42000000000000004,
+                "Presence": 0.86,
+                "Depth": 0.5,
+                "Sag": 0.42000000000000004,
+                "Bias": 0.9400000000000001,
+                "Bias_X": 0.5
+            }
+        },
+        {
+            "filename": "Chaos_Full_23.wav",
+            "target_dir": "02_Invective_Amp/02_Chaos_Mode",
+            "settings": {
+                "Pre_Gain": 0.2,
+                "Bass": 0.29,
+                "Mid": 0.8099999999999999,
+                "Treble": 0.65,
+                "Post_Gain": 0.16999999999999998,
+                "Master": 0.45,
+                "Presence": 0.7,
+                "Depth": 0.72,
+                "Sag": 0.95,
+                "Bias": 0.26,
+                "Bias_X": 0.97
+            }
+        },
+        {
+            "filename": "Chaos_Full_24.wav",
+            "target_dir": "02_Invective_Amp/02_Chaos_Mode",
+            "settings": {
+                "Pre_Gain": 0.29,
+                "Bass": 0.82,
+                "Mid": 0.03,
+                "Treble": 0.65,
+                "Post_Gain": 0.06,
+                "Master": 0.45999999999999996,
+                "Presence": 0.72,
+                "Depth": 0.99,
+                "Sag": 0.45999999999999996,
+                "Bias": 0.03,
+                "Bias_X": 0.18
+            }
+        },
+        {
+            "filename": "Chaos_Full_25.wav",
+            "target_dir": "02_Invective_Amp/02_Chaos_Mode",
+            "settings": {
+                "Pre_Gain": 0.32999999999999996,
+                "Bass": 0.27,
+                "Mid": 0.15,
+                "Treble": 0.85,
+                "Post_Gain": 0.54,
+                "Master": 0.93,
+                "Presence": 0.8699999999999999,
+                "Depth": 0.0,
+                "Sag": 0.27,
+                "Bias": 0.93,
+                "Bias_X": 0.99
+            }
+        },
+        {
+            "filename": "Chaos_Full_26.wav",
+            "target_dir": "02_Invective_Amp/02_Chaos_Mode",
+            "settings": {
+                "Pre_Gain": 0.58,
+                "Bass": 0.32,
+                "Mid": 0.8800000000000001,
+                "Treble": 0.16999999999999998,
+                "Post_Gain": 0.31,
+                "Master": 0.55,
+                "Presence": 0.8400000000000001,
+                "Depth": 0.58,
+                "Sag": 0.26,
+                "Bias": 0.13,
+                "Bias_X": 0.16999999999999998
+            }
+        },
+        {
+            "filename": "Chaos_Full_27.wav",
+            "target_dir": "02_Invective_Amp/02_Chaos_Mode",
+            "settings": {
+                "Pre_Gain": 0.4,
+                "Bass": 0.36,
+                "Mid": 0.63,
+                "Treble": 0.47000000000000003,
+                "Post_Gain": 0.8099999999999999,
+                "Master": 0.79,
+                "Presence": 0.9199999999999999,
+                "Depth": 0.44000000000000006,
+                "Sag": 0.16999999999999998,
+                "Bias": 0.08,
+                "Bias_X": 0.51
+            }
+        },
+        {
+            "filename": "Chaos_Full_28.wav",
+            "target_dir": "02_Invective_Amp/02_Chaos_Mode",
+            "settings": {
+                "Pre_Gain": 0.54,
+                "Bass": 1.0,
+                "Mid": 0.48,
+                "Treble": 0.18,
+                "Post_Gain": 0.29,
+                "Master": 0.35,
+                "Presence": 0.6599999999999999,
+                "Depth": 0.54,
+                "Sag": 0.32,
+                "Bias": 0.05,
+                "Bias_X": 0.33999999999999997
+            }
+        },
+        {
+            "filename": "Chaos_Full_29.wav",
+            "target_dir": "02_Invective_Amp/02_Chaos_Mode",
+            "settings": {
+                "Pre_Gain": 0.7,
+                "Bass": 0.24,
+                "Mid": 0.42000000000000004,
+                "Treble": 0.44000000000000006,
+                "Post_Gain": 0.8699999999999999,
+                "Master": 0.2,
+                "Presence": 0.33999999999999997,
+                "Depth": 0.25,
+                "Sag": 1.0,
+                "Bias": 0.44000000000000006,
+                "Bias_X": 0.9800000000000001
+            }
+        },
+        {
+            "filename": "Chaos_Full_30.wav",
+            "target_dir": "02_Invective_Amp/02_Chaos_Mode",
+            "settings": {
+                "Pre_Gain": 0.45999999999999996,
+                "Bass": 0.76,
+                "Mid": 0.13999999999999999,
+                "Treble": 0.2,
+                "Post_Gain": 0.67,
+                "Master": 0.6599999999999999,
+                "Presence": 0.27,
+                "Depth": 0.89,
+                "Sag": 0.4,
+                "Bias": 0.27999999999999997,
+                "Bias_X": 0.05
+            }
+        },
+        {
+            "filename": "Chaos_Full_31.wav",
+            "target_dir": "02_Invective_Amp/02_Chaos_Mode",
+            "settings": {
+                "Pre_Gain": 0.01,
+                "Bass": 0.04,
+                "Mid": 0.51,
+                "Treble": 0.77,
+                "Post_Gain": 0.5599999999999999,
+                "Master": 0.71,
+                "Presence": 0.21000000000000002,
+                "Depth": 0.26,
+                "Sag": 0.19,
+                "Bias": 0.5700000000000001,
+                "Bias_X": 0.45999999999999996
+            }
+        },
+        {
+            "filename": "Chaos_Full_32.wav",
+            "target_dir": "02_Invective_Amp/02_Chaos_Mode",
+            "settings": {
+                "Pre_Gain": 0.9199999999999999,
+                "Bass": 0.74,
+                "Mid": 0.05,
+                "Treble": 0.82,
+                "Post_Gain": 0.79,
+                "Master": 0.65,
+                "Presence": 0.49000000000000005,
+                "Depth": 0.09,
+                "Sag": 0.85,
+                "Bias": 0.03,
+                "Bias_X": 0.27999999999999997
+            }
+        },
+        {
+            "filename": "Chaos_Full_33.wav",
+            "target_dir": "02_Invective_Amp/02_Chaos_Mode",
+            "settings": {
+                "Pre_Gain": 0.73,
+                "Bass": 0.18,
+                "Mid": 0.45,
+                "Treble": 0.27,
+                "Post_Gain": 0.01,
+                "Master": 0.01,
+                "Presence": 0.82,
+                "Depth": 0.54,
+                "Sag": 0.37,
+                "Bias": 0.6900000000000001,
+                "Bias_X": 0.1
+            }
+        },
+        {
+            "filename": "Chaos_Full_34.wav",
+            "target_dir": "02_Invective_Amp/02_Chaos_Mode",
+            "settings": {
+                "Pre_Gain": 0.29,
+                "Bass": 0.99,
+                "Mid": 0.08,
+                "Treble": 0.85,
+                "Post_Gain": 1.0,
+                "Master": 0.15,
+                "Presence": 0.5,
+                "Depth": 0.6900000000000001,
+                "Sag": 0.73,
+                "Bias": 0.55,
+                "Bias_X": 0.64
+            }
+        },
+        {
+            "filename": "Chaos_Full_35.wav",
+            "target_dir": "02_Invective_Amp/02_Chaos_Mode",
+            "settings": {
+                "Pre_Gain": 0.64,
+                "Bass": 0.47000000000000003,
+                "Mid": 0.16,
+                "Treble": 0.55,
+                "Post_Gain": 0.2,
+                "Master": 0.4,
+                "Presence": 0.5700000000000001,
+                "Depth": 0.9,
+                "Sag": 0.11000000000000001,
+                "Bias": 0.74,
+                "Bias_X": 0.61
+            }
+        },
+        {
+            "filename": "Chaos_Full_36.wav",
+            "target_dir": "02_Invective_Amp/02_Chaos_Mode",
+            "settings": {
+                "Pre_Gain": 0.5599999999999999,
+                "Bass": 0.85,
+                "Mid": 0.9800000000000001,
+                "Treble": 0.06999999999999999,
+                "Post_Gain": 0.22999999999999998,
+                "Master": 0.8800000000000001,
+                "Presence": 0.9800000000000001,
+                "Depth": 0.9,
+                "Sag": 0.25,
+                "Bias": 0.12,
+                "Bias_X": 0.76
+            }
+        },
+        {
+            "filename": "Chaos_Full_37.wav",
+            "target_dir": "02_Invective_Amp/02_Chaos_Mode",
+            "settings": {
+                "Pre_Gain": 0.79,
+                "Bass": 0.93,
+                "Mid": 0.35,
+                "Treble": 0.74,
+                "Post_Gain": 0.8099999999999999,
+                "Master": 0.12,
+                "Presence": 0.35,
+                "Depth": 0.03,
+                "Sag": 0.49000000000000005,
+                "Bias": 0.27,
+                "Bias_X": 0.61
+            }
+        },
+        {
+            "filename": "Chaos_Full_38.wav",
+            "target_dir": "02_Invective_Amp/02_Chaos_Mode",
+            "settings": {
+                "Pre_Gain": 0.48,
+                "Bass": 0.37,
+                "Mid": 0.01,
+                "Treble": 0.9800000000000001,
+                "Post_Gain": 0.82,
+                "Master": 0.11000000000000001,
+                "Presence": 0.8699999999999999,
+                "Depth": 0.75,
+                "Sag": 0.95,
+                "Bias": 0.21000000000000002,
+                "Bias_X": 0.11000000000000001
+            }
+        },
+        {
+            "filename": "Chaos_Full_39.wav",
+            "target_dir": "02_Invective_Amp/02_Chaos_Mode",
+            "settings": {
+                "Pre_Gain": 0.96,
+                "Bass": 0.48,
+                "Mid": 0.18,
+                "Treble": 0.93,
+                "Post_Gain": 0.47000000000000003,
+                "Master": 0.99,
+                "Presence": 0.95,
+                "Depth": 0.32999999999999996,
+                "Sag": 0.2,
+                "Bias": 0.85,
+                "Bias_X": 0.5900000000000001
+            }
+        },
+        {
+            "filename": "Chaos_Full_40.wav",
+            "target_dir": "02_Invective_Amp/02_Chaos_Mode",
+            "settings": {
+                "Pre_Gain": 0.96,
+                "Bass": 0.45999999999999996,
+                "Mid": 0.06,
+                "Treble": 0.6799999999999999,
+                "Post_Gain": 0.16999999999999998,
+                "Master": 0.65,
+                "Presence": 0.05,
+                "Depth": 0.5900000000000001,
+                "Sag": 0.9400000000000001,
+                "Bias": 0.63,
+                "Bias_X": 0.0
+            }
+        },
+        {
+            "filename": "Chaos_Full_41.wav",
+            "target_dir": "02_Invective_Amp/02_Chaos_Mode",
+            "settings": {
+                "Pre_Gain": 0.24,
+                "Bass": 0.8400000000000001,
+                "Mid": 0.7,
+                "Treble": 0.44000000000000006,
+                "Post_Gain": 0.67,
+                "Master": 0.06999999999999999,
+                "Presence": 0.2,
+                "Depth": 0.25,
+                "Sag": 0.61,
+                "Bias": 0.67,
+                "Bias_X": 0.38
+            }
+        },
+        {
+            "filename": "Chaos_Full_42.wav",
+            "target_dir": "02_Invective_Amp/02_Chaos_Mode",
+            "settings": {
+                "Pre_Gain": 0.13,
+                "Bass": 0.86,
+                "Mid": 0.44000000000000006,
+                "Treble": 0.45999999999999996,
+                "Post_Gain": 0.82,
+                "Master": 0.3,
+                "Presence": 0.75,
+                "Depth": 0.1,
+                "Sag": 0.95,
+                "Bias": 0.9800000000000001,
+                "Bias_X": 0.9800000000000001
+            }
+        },
+        {
+            "filename": "Chaos_Full_43.wav",
+            "target_dir": "02_Invective_Amp/02_Chaos_Mode",
+            "settings": {
+                "Pre_Gain": 0.45999999999999996,
+                "Bass": 0.9099999999999999,
+                "Mid": 0.89,
+                "Treble": 0.8800000000000001,
+                "Post_Gain": 0.8400000000000001,
+                "Master": 1.0,
+                "Presence": 0.16,
+                "Depth": 0.16999999999999998,
+                "Sag": 0.9400000000000001,
+                "Bias": 0.5599999999999999,
+                "Bias_X": 0.49000000000000005
+            }
+        },
+        {
+            "filename": "Chaos_Full_44.wav",
+            "target_dir": "02_Invective_Amp/02_Chaos_Mode",
+            "settings": {
+                "Pre_Gain": 0.9400000000000001,
+                "Bass": 0.24,
+                "Mid": 0.26,
+                "Treble": 0.25,
+                "Post_Gain": 0.27999999999999997,
+                "Master": 0.6,
+                "Presence": 0.19,
+                "Depth": 0.31,
+                "Sag": 0.5599999999999999,
+                "Bias": 0.8300000000000001,
+                "Bias_X": 0.8
+            }
+        },
+        {
+            "filename": "Chaos_Full_45.wav",
+            "target_dir": "02_Invective_Amp/02_Chaos_Mode",
+            "settings": {
+                "Pre_Gain": 0.42000000000000004,
+                "Bass": 0.9800000000000001,
+                "Mid": 0.01,
+                "Treble": 0.09,
+                "Post_Gain": 0.99,
+                "Master": 0.16999999999999998,
+                "Presence": 0.29,
+                "Depth": 0.74,
+                "Sag": 0.2,
+                "Bias": 0.45999999999999996,
+                "Bias_X": 0.32
+            }
+        },
+        {
+            "filename": "Chaos_Full_46.wav",
+            "target_dir": "02_Invective_Amp/02_Chaos_Mode",
+            "settings": {
+                "Pre_Gain": 0.15,
+                "Bass": 0.96,
+                "Mid": 0.27,
+                "Treble": 0.11000000000000001,
+                "Post_Gain": 0.22000000000000003,
+                "Master": 0.5900000000000001,
+                "Presence": 0.79,
+                "Depth": 0.85,
+                "Sag": 0.75,
+                "Bias": 0.09,
+                "Bias_X": 0.44000000000000006
+            }
+        },
+        {
+            "filename": "Chaos_Full_47.wav",
+            "target_dir": "02_Invective_Amp/02_Chaos_Mode",
+            "settings": {
+                "Pre_Gain": 0.06999999999999999,
+                "Bass": 0.96,
+                "Mid": 0.65,
+                "Treble": 0.86,
+                "Post_Gain": 0.76,
+                "Master": 0.16,
+                "Presence": 0.08,
+                "Depth": 0.82,
+                "Sag": 0.42000000000000004,
+                "Bias": 0.36,
+                "Bias_X": 0.1
+            }
+        },
+        {
+            "filename": "Chaos_Full_48.wav",
+            "target_dir": "02_Invective_Amp/02_Chaos_Mode",
+            "settings": {
+                "Pre_Gain": 0.22999999999999998,
+                "Bass": 0.4,
+                "Mid": 0.58,
+                "Treble": 0.99,
+                "Post_Gain": 0.6599999999999999,
+                "Master": 0.03,
+                "Presence": 0.45999999999999996,
+                "Depth": 0.3,
+                "Sag": 0.74,
+                "Bias": 0.86,
+                "Bias_X": 0.53
+            }
+        },
+        {
+            "filename": "Chaos_Full_49.wav",
+            "target_dir": "02_Invective_Amp/02_Chaos_Mode",
+            "settings": {
+                "Pre_Gain": 0.3,
+                "Bass": 0.58,
+                "Mid": 0.96,
+                "Treble": 0.25,
+                "Post_Gain": 0.25,
+                "Master": 0.6900000000000001,
+                "Presence": 0.45,
+                "Depth": 0.06999999999999999,
+                "Sag": 0.21000000000000002,
+                "Bias": 0.48,
+                "Bias_X": 0.05
+            }
+        },
+        {
+            "filename": "Chaos_Full_50.wav",
+            "target_dir": "02_Invective_Amp/02_Chaos_Mode",
+            "settings": {
+                "Pre_Gain": 0.6799999999999999,
+                "Bass": 0.8400000000000001,
+                "Mid": 0.08,
+                "Treble": 0.1,
+                "Post_Gain": 0.74,
+                "Master": 0.62,
+                "Presence": 0.8300000000000001,
+                "Depth": 0.64,
+                "Sag": 0.89,
+                "Bias": 0.36,
+                "Bias_X": 0.99
+            }
+        }
+    ]
+}
